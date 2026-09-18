@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+*.log
+.chrome-qa-*/
+qa-*.png
+qa-browser.mjs
